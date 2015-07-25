@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data: Course Project"
-output: html_document
----
+# Getting and Cleaning Data: Course Project
 
 This project is submission of Coursera's "Getting and Cleaning Data" Course Project.
 

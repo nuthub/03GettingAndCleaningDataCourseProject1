@@ -1,15 +1,12 @@
----
-title: "CodeBook for file `averages.txt`"
-output: html_document
----
+# CodeBook for file `averages.txt`
 
-# The Raw Data
+## The Raw Data
 
 * Original data downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Day of download: 2015-07-24
 * Refer to archives `README.txt` for more information about the contents of the archive and the experiment these data set comes from.
 
-# The Tidy Aggregated Data
+## The Tidy Aggregated Data
 
 The tidy aggregated data set is contained in the file `averages.txt`, which
 
@@ -21,7 +18,7 @@ The tidy aggregated data set is contained in the file `averages.txt`, which
     data <- read.table("averages.txt", header = TRUE)
     ```
 
-# The Variables
+## The Variables
 
 The variables (columns) of `averages.txt` are (watch also note at the end of this file!):
 
